@@ -1,4 +1,4 @@
-# excelproject1
+# Excel_Project_1: Greatfit_Review_Analysis
 Greatfit Review Analysis
 
 Problem Statement:
